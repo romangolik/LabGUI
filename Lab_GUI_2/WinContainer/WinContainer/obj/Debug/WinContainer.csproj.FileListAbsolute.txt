@@ -1,0 +1,9 @@
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\obj\Debug\WinContainer.csprojAssemblyReference.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinContainer\WinContainer\obj\Debug\WinContainer.pdb

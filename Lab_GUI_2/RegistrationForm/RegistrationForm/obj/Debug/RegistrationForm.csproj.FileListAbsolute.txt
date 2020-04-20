@@ -1,0 +1,9 @@
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb

@@ -1,0 +1,9 @@
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\bin\Debug\TestList.exe.config
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\bin\Debug\TestList.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\bin\Debug\TestList.pdb
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\obj\Debug\TestList.Form1.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\obj\Debug\TestList.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\TestList\TestList\obj\Debug\TestList.pdb

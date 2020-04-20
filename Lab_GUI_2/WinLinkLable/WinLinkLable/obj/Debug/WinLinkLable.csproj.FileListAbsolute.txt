@@ -1,0 +1,10 @@
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\bin\Debug\WinLinkLable.exe.config
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\bin\Debug\WinLinkLable.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\bin\Debug\WinLinkLable.pdb
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\obj\Debug\WinLinkLable.csprojAssemblyReference.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\obj\Debug\WinLinkLable.Form1.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\obj\Debug\WinLinkLable.Form2.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\obj\Debug\WinLinkLable.Properties.Resources.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\obj\Debug\WinLinkLable.csproj.GenerateResource.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\obj\Debug\WinLinkLable.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_2\WinLinkLable\WinLinkLable\obj\Debug\WinLinkLable.pdb

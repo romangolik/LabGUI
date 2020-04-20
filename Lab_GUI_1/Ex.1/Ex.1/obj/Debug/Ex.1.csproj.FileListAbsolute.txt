@@ -1,0 +1,9 @@
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\bin\Debug\Ex.1.exe.config
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\bin\Debug\Ex.1.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\bin\Debug\Ex.1.pdb
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\obj\Debug\Ex.1.csprojAssemblyReference.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\obj\Debug\Ex._1.Form1.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\obj\Debug\Ex._1.Properties.Resources.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\obj\Debug\Ex.1.csproj.GenerateResource.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\obj\Debug\Ex.1.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_GUI\Lab_GUI_1\Ex.1\Ex.1\obj\Debug\Ex.1.pdb
